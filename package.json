@@ -1,0 +1,17 @@
+{
+  "name": "opencv-resume-template",
+  "version": "1.0.0",
+  "description": "Professional resume template for OpenCV Computer Vision Engineer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["resume", "opencv", "computer-vision", "template"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
